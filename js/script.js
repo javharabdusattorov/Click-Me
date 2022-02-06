@@ -128,7 +128,7 @@ elBtnFive.addEventListener('click', function() {
     elSection.classList.add('section__main');
     elSectionS.classList.add('section__main');
     elResultHeading.classList.add('flex');
-    elResultHeading.textContent = "Tank You!!!";
+    elResultHeading.textContent = "Thank You!!!";
     elResultHeading.style.justifyContent = "center";
 
     elFirstBtnSun.classList.remove('flex');
